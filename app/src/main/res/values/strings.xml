@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Arabic Kitchen</string>
+
+    <string name="hello_world">Welcome to Arabic Kitchen </string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="vegetable">
+
+
+    </string-array>
+
+</resources>
+
+
+
